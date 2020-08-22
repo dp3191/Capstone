@@ -10,3 +10,7 @@ World Bank. (2018). World development indicators: GDP (current US$) by country:1
 World Health Organization. (2018). Suicide prevention. Retrieved from http://www.who.int/mental_health/suicide-prevention/en/
 
 Inspiration: Suicide Prevention.
+
+
+The project exhibits various parameters like age,gender,gdp of a country etc.. for commiting sucide in various countries.
+K-means clustering algorithm (which found a strong structure in our dataset) was easy to implement in this case.
